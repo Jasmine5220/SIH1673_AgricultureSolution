@@ -97,11 +97,11 @@ Below is the proposed folder structure for the project:
 ## **Installation**
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/agri-ar-diagnosis.git
+   git clone https://github.com/Jasmine5220/SIH1673_AgricultureSolution.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd agri-ar-diagnosis
+   cd SIH1673_AgricultureSolution
    ```
 3. **Install dependencies:**
    ```sh
